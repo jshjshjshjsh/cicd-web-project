@@ -105,5 +105,6 @@
 			<version>5.1.0.4751</version>
 		</plugin>
 
-	</plugins>
+	</plugins>    
+    </build>
 </project>
